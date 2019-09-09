@@ -13,6 +13,6 @@
 #include <csv30>
 
 int main(int argc, char *argv[]) {
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "Hello, World!" << std::ndl;
     return EXIT_SUCCESS;
 }
